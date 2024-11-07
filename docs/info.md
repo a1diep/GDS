@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Have several input values with respective output values while using gates to control different the inputs to have different outputs. 
 
 ## How to test
 
-Explain how to use your project
+Switch on and off for the input gates, test around different value combinations and options to see what you can create on the number display. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none.
